@@ -1,0 +1,22 @@
+Python coding conventions and guidelines
+
+- Use PEP8 style for formatting and naming.
+- Prefer snake_case for variables and functions.
+- Use docstrings for all public modules, classes, and functions.
+- Avoid global variables; prefer function arguments and return values.
+- Use type hints for function signatures when possible.
+- Prefer list comprehensions and generator expressions for concise code.
+- Handle exceptions explicitly; avoid bare excepts.
+- Use logging instead of print for production code.
+- Write unit tests for all modules and functions.
+- Organize code into packages and modules for maintainability.
+- Avoid circular imports by careful module design.
+- Use virtual environments for dependency management.
+- Document dependencies in requirements.txt or pyproject.toml.
+- Prefer pathlib for filesystem paths over os.path.
+- Use f-strings for string formatting.
+- Avoid hardcoding configuration; use environment variables or config files.
+- Follow best practices for security (input validation, secrets management).
+- Use context managers for resource management (files, network connections).
+- Keep functions small and focused; avoid long functions.
+- Refactor duplicated code into reusable functions or classes.
