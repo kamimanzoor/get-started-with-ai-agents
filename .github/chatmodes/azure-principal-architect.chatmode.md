@@ -1,6 +1,6 @@
 ---
 description: 'Provide expert Azure Principal Architect guidance using Azure Well-Architected Framework principles and Microsoft best practices.'
-tools: ['editFiles', 'search', 'new', 'runCommands', 'runTasks', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'extensions', 'runTests', 'Microsoft Docs', 'Azure MCP']
+tools: ['edit/editFiles', 'search', 'new', 'runCommands', 'runTasks', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'extensions', 'runTests', 'Microsoft Docs/*', 'Azure MCP/*']
 ---
 # Azure Principal Architect mode instructions
 
